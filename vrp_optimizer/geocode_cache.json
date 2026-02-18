@@ -1,0 +1,1874 @@
+{
+  "37 Alexdon Rd, North York, ON, Canada": {
+    "lat": 43.7628351,
+    "lon": -79.4851394,
+    "resolved": "Alexdon Road, York University Heights, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M3J 2B1, Canada",
+    "source": "nominatim"
+  },
+  "320 Bayfield St, Barrie, ON L4M 3C1, Canada": {
+    "lat": 44.3995987,
+    "lon": -79.7019116,
+    "resolved": "Canadian Tire Auto Centre, 320, Bayfield Street, Barrie, Central Ontario, Ontario, L4M 3C1, Canada",
+    "source": "nominatim"
+  },
+  "570 Steven Ct, Newmarket, ON, Canada": {
+    "lat": 44.0399559,
+    "lon": -79.4545971,
+    "resolved": "570, Steven Court, Newmarket, York Region, Golden Horseshoe, Ontario, L3X 2M0, Canada",
+    "source": "nominatim"
+  },
+  "995 Moodie Dr, Ottawa, ON, Canada": {
+    "lat": 45.2784097,
+    "lon": -75.8055357,
+    "resolved": "Primo Self Storage, 995, Moodie Drive, Nepean, Rideau-Jock, Ottawa, Eastern Ontario, Ontario, K2J 0J1, Canada",
+    "source": "nominatim"
+  },
+  "1400 Upper James St, Hamilton, ON L9B 1K3, Canada": {
+    "lat": 43.2108787,
+    "lon": -79.8894949,
+    "resolved": "1400, Upper James Street, Ryckmans Corners, Mewburn, Hamilton, Golden Horseshoe, Ontario, L9B 1K2, Canada",
+    "source": "nominatim"
+  },
+  "30 Grand Trunk Crescent, Toronto, ON M5J 3A4, Canada": {
+    "lat": 43.6421615,
+    "lon": -79.3829002,
+    "resolved": "30, Grand Trunk Crescent, Harbourfront-CityPlace, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5J 3A6, Canada",
+    "source": "nominatim"
+  },
+  "764 Division St, Cobourg, ON K9A 5V2, Canada": {
+    "lat": 43.9721292,
+    "lon": -78.170803,
+    "resolved": "764, Division Street, Cobourg, Northumberland County, Central Ontario, Ontario, K9A 5V2, Canada",
+    "source": "nominatim"
+  },
+  "167 Bradford Street, Barrie, ON, Canada": {
+    "lat": 44.3787271,
+    "lon": -79.6933975,
+    "resolved": "167, Bradford Street, Barrie, Central Ontario, Ontario, L4N 3B3, Canada",
+    "source": "nominatim"
+  },
+  "3 Knightsbridge Rd, Brampton, ON L6T 3X3, Canada": {
+    "lat": 43.7184295,
+    "lon": -79.7156664,
+    "resolved": "3, Knightsbridge Road, Bramalea, Brampton, Peel Region, Golden Horseshoe, Ontario, L6T 5L5, Canada",
+    "source": "nominatim"
+  },
+  "707 Srigley St, Newmarket, ON L3Y 1X4, Canada": {
+    "lat": 44.0569484,
+    "lon": -79.44721,
+    "resolved": "Royal Canadian Legion Br. 426, 707, Srigley Street, Gorham, Newmarket, York Region, Golden Horseshoe, Ontario, L3Y 1X4, Canada",
+    "source": "nominatim"
+  },
+  "150 Kenwood Ave, Toronto, ON M6C 2S3, Canada": {
+    "lat": 43.687297,
+    "lon": -79.4245001,
+    "resolved": "150, Kenwood Avenue, Humewood-Cedarvale, Toronto\u2014St. Paul's, York, Toronto, Golden Horseshoe, Ontario, M6C 4B3, Canada",
+    "source": "nominatim"
+  },
+  "1 Bloor St E, Toronto, ON M4W 0A8, Canada": {
+    "lat": 43.6698249,
+    "lon": -79.3861067,
+    "resolved": "One Bloor East, 1, Bloor Street East, Rosedale-Moore Park, University\u2014Rosedale, Toronto, Golden Horseshoe, Ontario, M5T 1G1, Canada",
+    "source": "nominatim"
+  },
+  "151 Village Green Square, Scarborough, ON M1S 0K5, Canada": {
+    "lat": 43.7785777,
+    "lon": -79.28131,
+    "resolved": "151, Village Green Square, Agincourt South-Malvern West, Scarborough\u2014Agincourt, Scarborough, Toronto, Golden Horseshoe, Ontario, M1S 5C6, Canada",
+    "source": "nominatim"
+  },
+  "26 Lepage Ct, North York, ON M3J 1Z9, Canada": {
+    "lat": 43.7543217,
+    "lon": -79.4491057,
+    "resolved": "North York, Toronto, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "8808 Bathurst St, Vaughan, ON L4J 8A7, Canada": {
+    "lat": 43.8369444,
+    "lon": -79.4563921,
+    "resolved": "8808, Bathurst Street, Vaughan, York Region, Golden Horseshoe, Ontario, L4J 9J8, Canada",
+    "source": "nominatim"
+  },
+  "18 Mondeo Dr, Toronto, ON M1P 5C8, Canada": {
+    "lat": 43.7648346,
+    "lon": -79.2880932,
+    "resolved": "18, Mondeo Drive, Dorset Park, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 2W1, Canada",
+    "source": "nominatim"
+  },
+  "4 Bailey Street, Port Carling, ON, Canada": {
+    "lat": 45.115862,
+    "lon": -79.5763356,
+    "resolved": "Royal Canadian Legion Branch 529, 4, Bailey Street, Port Carling, Muskoka Lakes Township, District Municipality of Muskoka, Muskoka District, Central Ontario, Ontario, P0B 1J0, Canada",
+    "source": "nominatim"
+  },
+  "92 King St E, Colborne, ON K0K 1S0, Canada": {
+    "lat": 44.0065996,
+    "lon": -77.8813278,
+    "resolved": "92, King Street East, Colborne, Cramahe, Northumberland County, Central Ontario, Ontario, K0K 1S0, Canada",
+    "source": "nominatim"
+  },
+  "33 Mill Street, Toronto, ON, Canada": {
+    "lat": 43.6503035,
+    "lon": -79.3606724,
+    "resolved": "Pure Spirit, 33, Mill Street, St Lawrence-East Bayfront-The Islands, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5A 3C4, Canada",
+    "source": "nominatim"
+  },
+  "2910 Hwy 7, Concord, ON L4K 2M7, Canada": {
+    "lat": 43.8055116,
+    "lon": -79.4829261,
+    "resolved": "Highway 7, Concord, Vaughan, York Region, Golden Horseshoe, Ontario, L4K 4J8, Canada",
+    "source": "nominatim"
+  },
+  "2920 Hwy 7, Vaughan, ON L4K 0P4, Canada": {
+    "lat": 43.795373,
+    "lon": -79.520174,
+    "resolved": "2920, Highway 7, Edgeley, Vaughan, York Region, Golden Horseshoe, Ontario, L4K 3R9, Canada",
+    "source": "nominatim"
+  },
+  "526 Oakwood Ave, York, ON M6E 2X1, Canada": {
+    "lat": 43.6920577,
+    "lon": -79.4407307,
+    "resolved": "526, Oakwood Avenue, Oakwood Village, Toronto\u2014St. Paul's, York, Toronto, Golden Horseshoe, Ontario, M6C 2R5, Canada",
+    "source": "nominatim"
+  },
+  "2965 Kingston Rd, Scarborough, ON M1M 1P1, Canada": {
+    "lat": 43.7249717,
+    "lon": -79.2321379,
+    "resolved": "2965, Kingston Road, Cliffcrest, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1M 1P0, Canada",
+    "source": "nominatim"
+  },
+  "101 Laird Dr, Toronto, ON M4G 3T7, Canada": {
+    "lat": 43.7067486,
+    "lon": -79.361809,
+    "resolved": "Chipotle, 101, Laird Drive, Thorncliffe Park, Don Valley West, East York, Toronto, Golden Horseshoe, Ontario, M4G 3V2, Canada",
+    "source": "nominatim"
+  },
+  "35 Beresford Drive, Richmond Hill, ON, Canada": {
+    "lat": 43.8440667,
+    "lon": -79.428526,
+    "resolved": "Service Canada, 35, Beresford Drive, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4B 0H3, Canada",
+    "source": "nominatim"
+  },
+  "1675 Finch Ave W, Toronto, ON M3J 2G8, Canada": {
+    "lat": 43.7609152,
+    "lon": -79.500004,
+    "resolved": "1675, Finch Avenue West, York University Heights, Humber River\u2014Black Creek, North York, Toronto, Golden Horseshoe, Ontario, M3J 1K6, Canada",
+    "source": "nominatim"
+  },
+  "700 Eagleson Rd, Kanata, ON K2M 2G9, Canada": {
+    "lat": 45.2857207,
+    "lon": -75.8674609,
+    "resolved": "TD, 700, Eagleson Road, Kanata, Kanata South, Ottawa, Eastern Ontario, Ontario, K2M 2G9, Canada",
+    "source": "nominatim"
+  },
+  "3355 Hurontario St, Mississauga, ON L5A 4E7, Canada": {
+    "lat": 43.5876504,
+    "lon": -79.6253155,
+    "resolved": "3355 Hurontario Street, Ten Fairview Centre, Fairview, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5A 3W9, Canada",
+    "source": "nominatim"
+  },
+  "1 Community Centre Ln, Aurora, ON L4G 2W3, Canada": {
+    "lat": 44.0040717,
+    "lon": -79.4707853,
+    "resolved": "1, Community Centre Lane, Aurora, York Region, Golden Horseshoe, Ontario, L4G 1P0, Canada",
+    "source": "nominatim"
+  },
+  "200 Whitmore Rd, Woodbridge, ON L4L 7K4, Canada": {
+    "lat": 43.7848982,
+    "lon": -79.5923855,
+    "resolved": "Woodbridge, Vaughan, York Region, Golden Horseshoe, Ontario, L4L 9L9, Canada",
+    "source": "nominatim"
+  },
+  "165 Ferndale Dr\tBarrie": {
+    "lat": 44.3789662,
+    "lon": -79.7223927,
+    "resolved": "165, Ferndale Drive North, Letitia Heights, Barrie, Central Ontario, Ontario, L4N 1C2, Canada",
+    "source": "nominatim"
+  },
+  "15 Michael Power Pl, Etobicoke, ON M9A 5G4, Canada": {
+    "lat": 43.6450881,
+    "lon": -79.5299001,
+    "resolved": "15, Michael Power Place, Etobicoke City Centre, Etobicoke\u2014Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9A 5G1, Canada",
+    "source": "nominatim"
+  },
+  "19 Albert W\tThorold": {
+    "lat": 43.124989,
+    "lon": -79.1992733,
+    "resolved": "Albert Street West, Thorold, Niagara Region, Golden Horseshoe, Ontario, L2V 1P1, Canada",
+    "source": "nominatim"
+  },
+  "510 Penrose Street, Newmarket, ON, Canada": {
+    "lat": 44.0435332,
+    "lon": -79.45272,
+    "resolved": "510, Penrose Street, Newmarket, York Region, Golden Horseshoe, Ontario, L3Y 4X2, Canada",
+    "source": "nominatim"
+  },
+  "9 Main Street N, St. George, ON": {
+    "lat": 43.2459913,
+    "lon": -80.2540485,
+    "resolved": "9, Main Street North, St George, Brant County, Ontario, N0E 1N0, Canada",
+    "source": "nominatim"
+  },
+  "125 Western Battery Rd, Toronto, ON M6K 3R8, Canada": {
+    "lat": 43.6399158,
+    "lon": -79.4167201,
+    "resolved": "125, Western Battery Road, Fort York-Liberty Village, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M6K 3R9, Canada",
+    "source": "nominatim"
+  },
+  "10886 Hurontario St, Brampton, ON L7A 3R9, Canada": {
+    "lat": 43.685832,
+    "lon": -79.7599366,
+    "resolved": "Brampton, Peel Region, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "6045 Creditview Rd, Mississauga, ON L5V 0B1, Canada": {
+    "lat": 43.5998999,
+    "lon": -79.7148826,
+    "resolved": "6045, Creditview Road, Riverview, Meadowvale South, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5V 2A8, Canada",
+    "source": "nominatim"
+  },
+  "6899 14th Ave, Markham, ON L6B 0S2, Canada": {
+    "lat": 43.8541445,
+    "lon": -79.2591679,
+    "resolved": "14th Avenue, Markham, York Region, Golden Horseshoe, Ontario, L3S 4S0, Canada",
+    "source": "nominatim"
+  },
+  "3312 Danforth Ave, Scarborough, ON M1L 1C4, Canada": {
+    "lat": 43.6933908,
+    "lon": -79.2791707,
+    "resolved": "3312, Danforth Avenue, Oakridge, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1L 1C6, Canada",
+    "source": "nominatim"
+  },
+  "62 Yonge Street, Tara, ON, Canada": {
+    "lat": 44.4804648,
+    "lon": -81.1465591,
+    "resolved": "Tara Gas Bar Variety, 62, Yonge Street North, Tara, Arran\u2013Elderslie, Bruce County, Southwestern Ontario, Ontario, N0H 2N0, Canada",
+    "source": "nominatim"
+  },
+  "371 Laurel street, Cambridge, ON.": {
+    "lat": 43.4000658,
+    "lon": -80.3544112,
+    "resolved": "371, Laurel Street, Preston, Cambridge, Region of Waterloo, Southwestern Ontario, Ontario, N3H 4T3, Canada",
+    "source": "nominatim"
+  },
+  "5592 Aurora Road, Whitchurch-Stouffville, ON, Canada": {
+    "lat": 44.0406359,
+    "lon": -79.2853284,
+    "resolved": "5592, Aurora Road, Ballantrae, Whitchurch-Stouffville, York Region, Golden Horseshoe, Ontario, L4A 1N7, Canada",
+    "source": "nominatim"
+  },
+  "8 Kincort St, Toronto, ON M6M 3E1, Canada": {
+    "lat": 43.6987404,
+    "lon": -79.4688185,
+    "resolved": "8, Kincort Street, Beechborough-Greenbrook, York South\u2014Weston, York, North York, Toronto, Golden Horseshoe, Ontario, M6M 2J7, Canada",
+    "source": "nominatim"
+  },
+  "23 London Rd W, Guelph, ON N1H 2B4, Canada": {
+    "lat": 43.5498248,
+    "lon": -80.2577908,
+    "resolved": "23;17;19;21, London Road West, Exhbition Park Neighbourhood Group, Guelph, Southwestern Ontario, Ontario, N1H 2B4, Canada",
+    "source": "nominatim"
+  },
+  "1642 Merivale Rd, Nepean, ON K2G 4A1, Canada": {
+    "lat": 45.3455036,
+    "lon": -75.7318922,
+    "resolved": "Merivale Mall, 1642, Merivale Road, Crestview, College, Nepean, Ottawa, Eastern Ontario, Ontario, K2G 0B1, Canada",
+    "source": "nominatim"
+  },
+  "1240 Commissioners Rd W, London, ON N6K 1C7, Canada": {
+    "lat": 42.9590955,
+    "lon": -81.3311185,
+    "resolved": "1240, Commissioners Road West, London, Southwestern Ontario, Ontario, N6K 2K1, Canada",
+    "source": "nominatim"
+  },
+  "97 Rue de l'Ar\u00c3\u00a9na, Gatineau, QC J8M 1C8, Canada": {
+    "lat": 45.4277659,
+    "lon": -75.710976,
+    "resolved": "Gatineau, Outaouais, Qu\u00e9bec, Canada",
+    "source": "nominatim"
+  },
+  "812 Burnhamthorpe Rd, Mississauga, ON M9C 4W1, Canada": {
+    "lat": 43.6112703,
+    "lon": -79.6147088,
+    "resolved": "812, Burnhamthorpe Road East, Applewood, Mississauga, Peel Region, Golden Horseshoe, Ontario, L4Y 3P5, Canada",
+    "source": "nominatim"
+  },
+  "10 Delisle Ave, Toronto, ON M4V 3C6, Canada": {
+    "lat": 43.6891314,
+    "lon": -79.3953238,
+    "resolved": "10, Delisle Avenue, Yonge-St.Clair, Toronto\u2014St. Paul's, Toronto, Golden Horseshoe, Ontario, M4V 3B7, Canada",
+    "source": "nominatim"
+  },
+  "4 Mascot Pl, North York, ON M2R 1J6, Canada": {
+    "lat": 43.7705441,
+    "lon": -79.4438945,
+    "resolved": "4, Mascot Place, Westminster-Branson, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M2R 0A8, Canada",
+    "source": "nominatim"
+  },
+  "239 Church Street South, Alliston, ON, Canada": {
+    "lat": 44.1435346,
+    "lon": -79.8646912,
+    "resolved": "239, Church Street South, Alliston, New Tecumseth, Simcoe County, Central Ontario, Ontario, L9R 1G9, Canada",
+    "source": "nominatim"
+  },
+  "53 Wellington St, Port Hope, ON L1A 2M5": {
+    "lat": 43.9660871,
+    "lon": -78.287296,
+    "resolved": "Roseglen Village for Seniors, 53, Wellington Street, Port Hope, Northumberland County, Central Ontario, Ontario, L1A 2M5, Canada",
+    "source": "nominatim"
+  },
+  "300 Antibes Dr, North York, ON M2R 3N8, Canada": {
+    "lat": 43.7812811,
+    "lon": -79.4500819,
+    "resolved": "Forest Lane Apartments, 300, Antibes Drive, Westminster-Branson, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M2R 1Y8, Canada",
+    "source": "nominatim"
+  },
+  "236 Vaughan Rd, Toronto, ON M6C 2M7, Canada": {
+    "lat": 43.687781,
+    "lon": -79.4249373,
+    "resolved": "Sunset Court, 236, Vaughan Road, Humewood-Cedarvale, Toronto\u2014St. Paul's, York, Toronto, Golden Horseshoe, Ontario, M6C 2N1, Canada",
+    "source": "nominatim"
+  },
+  "26 Carluke Crescent, Toronto, ON M2L 2J2, Canada": {
+    "lat": 43.7613677,
+    "lon": -79.3906372,
+    "resolved": "26, Carluke Crescent, St.Andrew-Windfields, Don Valley West, North York, Toronto, Golden Horseshoe, Ontario, M2L 2J2, Canada",
+    "source": "nominatim"
+  },
+  "220 Wexford Rd, Brampton, ON L6Z 4N7, Canada": {
+    "lat": 43.7191795,
+    "lon": -79.7822953,
+    "resolved": "220, Wexford Road, Brampton, Peel Region, Golden Horseshoe, Ontario, L6Z 4L5, Canada",
+    "source": "nominatim"
+  },
+  "10275 Keele St, Vaughan, ON L6A 3Y9, Canada": {
+    "lat": 43.8614715,
+    "lon": -79.5123761,
+    "resolved": "10275, Keele Street, Maple, Vaughan, York Region, Golden Horseshoe, Ontario, L6A 3Y9, Canada",
+    "source": "nominatim"
+  },
+  "1227 Donnybrook Dr, Dorchester, ON N0L 1G5, Canada": {
+    "lat": 42.9648804,
+    "lon": -81.0615339,
+    "resolved": "1227, Donnybrook Drive, Dorchester, Thames Centre, Middlesex County, Ontario, N0L 1G5, Canada",
+    "source": "nominatim"
+  },
+  "120 Old Kingston Rd, Ajax, ON L1T 3Z2, Canada": {
+    "lat": 43.8542228,
+    "lon": -79.0606491,
+    "resolved": "120, Old Kingston Road, Pickering Village, Ajax, Durham Region, Golden Horseshoe, Ontario, L1T 2Z8, Canada",
+    "source": "nominatim"
+  },
+  "100 Weldon Rd, Whitchurch-Stouffville, ON L4A 2S9, Canada": {
+    "lat": 43.9657574,
+    "lon": -79.260208,
+    "resolved": "Whitchurch Stouffville Fire and Emergency Services, 100, Weldon Road, Whitchurch-Stouffville, York Region, Golden Horseshoe, Ontario, L4A 0G8, Canada",
+    "source": "nominatim"
+  },
+  "8670 Bayview Ave \tRichmond Hill\tCanada": {
+    "lat": 43.8427823,
+    "lon": -79.4087224,
+    "resolved": "Scotiabank, 8670, Bayview Avenue, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4B 4V9, Canada",
+    "source": "nominatim"
+  },
+  "75 Dufay Rd, Brampton, ON L7A 0B5, Canada": {
+    "lat": 43.6803547,
+    "lon": -79.8419487,
+    "resolved": "Dufay Road, Brampton, Peel Region, Golden Horseshoe, Ontario, L7A 3Z7, Canada",
+    "source": "nominatim"
+  },
+  "114 Tower Hill Rd, Richmond Hill, ON L4E 0K6, Canada": {
+    "lat": 43.9139142,
+    "lon": -79.4476094,
+    "resolved": "114, Tower Hill Road, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4E 0K0, Canada",
+    "source": "nominatim"
+  },
+  "925 Rathburn Road East, Mississauga, ON, Canada": {
+    "lat": 43.6156913,
+    "lon": -79.6180084,
+    "resolved": "925, Rathburn Road East, Rathwood, Mississauga, Peel Region, Golden Horseshoe, Ontario, L4W 4C3, Canada",
+    "source": "nominatim"
+  },
+  "1480 Pickering Pkwy, Pickering, ON L1V 3V7, Canada": {
+    "lat": 43.8361126,
+    "lon": -79.0802774,
+    "resolved": "1480, Pickering Parkway, Pickering, Durham Region, Golden Horseshoe, Ontario, L1V 0A5, Canada",
+    "source": "nominatim"
+  },
+  "4410 Kingston Rd, Scarborough, ON M1E 2N5, Canada": {
+    "lat": 43.7473111,
+    "lon": -79.2080443,
+    "resolved": "Kingston Road, Guildwood, Scarborough\u2014Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1E 1N9, Canada",
+    "source": "nominatim"
+  },
+  "74 Quarry Edge Dr, Brampton, ON L6V 4K2, Canada": {
+    "lat": 43.706295,
+    "lon": -79.7852985,
+    "resolved": "74, Quarry Edge Drive, Brampton, Peel Region, Golden Horseshoe, Ontario, L6V 4K2, Canada",
+    "source": "nominatim"
+  },
+  "3301 Sheppard Ave E, Scarborough, ON M1T 3K2, Canada": {
+    "lat": 43.7781714,
+    "lon": -79.3097088,
+    "resolved": "3301, Sheppard Avenue East, Tam O'Shanter-Sullivan, Scarborough\u2014Agincourt, Scarborough, Toronto, Golden Horseshoe, Ontario, M1T 1P7, Canada",
+    "source": "nominatim"
+  },
+  "2300 Confederation Pkwy, Mississauga, ON L5B 1R5, Canada": {
+    "lat": 43.572158,
+    "lon": -79.6125313,
+    "resolved": "La Fontaine Bleu, 2300, Confederation Parkway, Cooksville, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5B 1N1, Canada",
+    "source": "nominatim"
+  },
+  "39 Guelph St, Georgetown, ON L7G 3Z3, Canada": {
+    "lat": 43.6515029,
+    "lon": -79.9251478,
+    "resolved": "39, Guelph Street, Marywood Meadows, Georgetown, Halton Hills, Halton Region, Golden Horseshoe, Ontario, L7G 3G2, Canada",
+    "source": "nominatim"
+  },
+  "7156 Airport Rd, Mississauga, ON L4T 2H1, Canada": {
+    "lat": 43.5896231,
+    "lon": -79.6443879,
+    "resolved": "Mississauga, Peel Region, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "32 Trolley Cres, Toronto, ON M5A 0E8, Canada": {
+    "lat": 43.6568202,
+    "lon": -79.3549243,
+    "resolved": "32, Trolley Crescent, Moss Park, Toronto Centre, Toronto, Golden Horseshoe, Ontario, M5A 0E9, Canada",
+    "source": "nominatim"
+  },
+  "2 Fielden Ave, Port Colborne, ON L3K 4S9, Canada": {
+    "lat": 42.8808752,
+    "lon": -79.257477,
+    "resolved": "2, Fielden Avenue, Port Colborne, Niagara Region, Golden Horseshoe, Ontario, L3K 6G4, Canada",
+    "source": "nominatim"
+  },
+  "1575 Lakeshore Rd W, Mississauga, ON L5J 0B1, Canada": {
+    "lat": 43.5122879,
+    "lon": -79.6285615,
+    "resolved": "Lakeshore Road West, Clarkson, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5J 1H3, Canada",
+    "source": "nominatim"
+  },
+  "6677 Meadowvale Town Centre Cir, Mississauga, ON L5N 2R5, Canada": {
+    "lat": 43.5833848,
+    "lon": -79.7593463,
+    "resolved": "Your Dollar Store, 6677, Meadowvale Town Centre Circle, Meadowvale, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5N 2R5, Canada",
+    "source": "nominatim"
+  },
+  "1375 Danforth Ave, Toronto, ON M4J 1N1, Canada": {
+    "lat": 43.6953922,
+    "lon": -79.2686399,
+    "resolved": "Danforth Avenue, Birchcliffe-Cliffside, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1L 1E5, Canada",
+    "source": "nominatim"
+  },
+  "1448 Lawrence Ave E, North York, ON M4A 2V6, Canada": {
+    "lat": 43.7427952,
+    "lon": -79.3138126,
+    "resolved": "Victoria Terrace, 1448, Lawrence Avenue East, Parkwoods-O'Connor Hills, Don Valley East, North York, Toronto, Golden Horseshoe, Ontario, M4A 2S0, Canada",
+    "source": "nominatim"
+  },
+  "51 Trolley Cres, Toronto, ON M5A 0E9, Canada": {
+    "lat": 43.656948,
+    "lon": -79.3555339,
+    "resolved": "River City, 51, Trolley Crescent, Moss Park, Toronto Centre, Toronto, Golden Horseshoe, Ontario, M5A 0E9, Canada",
+    "source": "nominatim"
+  },
+  "110 Marlee Ave, York, ON M6E 3B6, Canada": {
+    "lat": 43.701216,
+    "lon": -79.441036,
+    "resolved": "110, Marlee Avenue, Briar Hill-Belgravia, Eglinton\u2014Lawrence, York, Toronto, Golden Horseshoe, Ontario, M6E 2N4, Canada",
+    "source": "nominatim"
+  },
+  "1005 Ottawa street, Kitchener, ON": {
+    "lat": 43.4492286,
+    "lon": -80.4451613,
+    "resolved": "Stanley Park Mall, 1005, Ottawa Street North, Stanley Park, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2A 1H2, Canada",
+    "source": "nominatim"
+  },
+  "211 Thames Street North, Ingersoll, ON, Canada": {
+    "lat": 43.0446752,
+    "lon": -80.8906713,
+    "resolved": "211, Thames Street North, Ingersoll, Oxford County, Ontario, N5C 1N1, Canada",
+    "source": "nominatim"
+  },
+  "100 Eagle Street West, Newmarket, ON, Canada": {
+    "lat": 44.0446757,
+    "lon": -79.4867695,
+    "resolved": "Ray Twinney Complex, 100, Eagle Street West, Glenway, Newmarket, York Region, Golden Horseshoe, Ontario, L3Y 7R8, Canada",
+    "source": "nominatim"
+  },
+  "9665 Bayview Avenue, Richmond Hill, ON, Canada": {
+    "lat": 43.8633726,
+    "lon": -79.4121677,
+    "resolved": "9665, Bayview Avenue, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4C 4Z2, Canada",
+    "source": "nominatim"
+  },
+  "20 Dunbar Ct, Ottawa, ON K2G 5K4": {
+    "lat": 45.3247448,
+    "lon": -75.7768544,
+    "resolved": "20, Dunbar Court, Nepean, Ottawa, Eastern Ontario, Ontario, K2H 8K9, Canada",
+    "source": "nominatim"
+  },
+  "4665 Central Parkway East, Mississauga, ON, Canada": {
+    "lat": 43.615804,
+    "lon": -79.6401731,
+    "resolved": "Dr. Jeff Levman - Mississauga, ON, 4665, Central Parkway East, Hurontario, Mississauga, Peel Region, Golden Horseshoe, Ontario, L4Z 2V4, Canada",
+    "source": "nominatim"
+  },
+  "1 Old Mill Drive, York, ON, Canada": {
+    "lat": 43.6484634,
+    "lon": -79.4861734,
+    "resolved": "One Old Mill, 1, Old Mill Drive, Lambton Baby Point, York, Parkdale\u2014High Park, Toronto, Golden Horseshoe, Ontario, M6S 1P7, Canada",
+    "source": "nominatim"
+  },
+  "2835 Islington Ave, North York, ON M9L 2K2, Canada": {
+    "lat": 43.7503891,
+    "lon": -79.5673215,
+    "resolved": "The North Court, 2835, Islington Avenue, Humber Summit, Humber River\u2014Black Creek, North York, Toronto, Golden Horseshoe, Ontario, M9L 2G9, Canada",
+    "source": "nominatim"
+  },
+  "11700 Yonge St, Richmond Hill, ON L4E 0K4, Canada": {
+    "lat": 43.9121782,
+    "lon": -79.4487906,
+    "resolved": "Sobeys, 11700, Yonge Street, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4E 0K4, Canada",
+    "source": "nominatim"
+  },
+  "2170 Sherobee Rd, Mississauga, ON L5A 3P8, Canada": {
+    "lat": 43.5723403,
+    "lon": -79.6025578,
+    "resolved": "Kaneff Quality Apartment Homes, 2170, Sherobee Road, Cooksville, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5A 1A3, Canada",
+    "source": "nominatim"
+  },
+  "27 Wellington St West\tCreemore": {
+    "lat": 44.327034,
+    "lon": -80.1107866,
+    "resolved": "27, Wellington Street West, Creemore, Clearview, Simcoe County, Central Ontario, Ontario, L0M 1G0, Canada",
+    "source": "nominatim"
+  },
+  "2916 Hwy 7, Woodbridge, ON L4L 1A6, Canada": {
+    "lat": 43.7838557,
+    "lon": -79.5741623,
+    "resolved": "Highway 7, Woodbridge, Vaughan, York Region, Golden Horseshoe, Ontario, L4L 1S6, Canada",
+    "source": "nominatim"
+  },
+  "100 Salome Dr, Toronto, ON M1S 1X4, Canada": {
+    "lat": 43.7865879,
+    "lon": -79.2704616,
+    "resolved": "100, Salome Drive, Agincourt South-Malvern West, Scarborough North, Scarborough, Toronto, Golden Horseshoe, Ontario, M1S 1T6, Canada",
+    "source": "nominatim"
+  },
+  "115 Omni Dr, Toronto, ON M1P 5A7, Canada": {
+    "lat": 43.7717615,
+    "lon": -79.261339,
+    "resolved": "115, Omni Drive, Bendale-Glen Andrew, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 4M2, Canada",
+    "source": "nominatim"
+  },
+  "1240 Eglinton Avenue West, Mississauga, ON, Canada": {
+    "lat": 43.5790329,
+    "lon": -79.6816654,
+    "resolved": "1240, Eglinton Avenue West, Roseborough, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5V 1N3, Canada",
+    "source": "nominatim"
+  },
+  "15 Westney Rd N, Ajax, ON L1T 1P4, Canada": {
+    "lat": 43.8594997,
+    "lon": -79.0392,
+    "resolved": "15, Westney Road North, Westney Heights, Ajax, Durham Region, Golden Horseshoe, Ontario, L1T 1P0, Canada",
+    "source": "nominatim"
+  },
+  "9 Legion Road, Hepworth, ON, Canada": {
+    "lat": 44.6340029,
+    "lon": -81.1491289,
+    "resolved": "9, Legion Road, Hepworth, South Bruce Peninsula, Bruce County, Ontario, N0H 1P0, Canada",
+    "source": "nominatim"
+  },
+  "225 Sackville St, Toronto, ON M5A 0B9, Canada": {
+    "lat": 43.659551,
+    "lon": -79.362606,
+    "resolved": "225, Sackville Street, Regent Park, Toronto Centre, Toronto, Golden Horseshoe, Ontario, M5A 2B7, Canada",
+    "source": "nominatim"
+  },
+  "109 Front St E, Toronto, ON M5A 4P7, Canada": {
+    "lat": 43.6494176,
+    "lon": -79.3708295,
+    "resolved": "109 Front Street East, 109, Front Street East, St Lawrence-East Bayfront-The Islands, Toronto Centre, Toronto, Golden Horseshoe, Ontario, M5A 4S5, Canada",
+    "source": "nominatim"
+  },
+  "2420 Guelph Line, Burlington, ON L7P 4M7, Canada": {
+    "lat": 43.3749579,
+    "lon": -79.8361743,
+    "resolved": "2420, Guelph Line, Nelson, Burlington, Halton Region, Golden Horseshoe, Ontario, L7P 4M7, Canada",
+    "source": "nominatim"
+  },
+  "430 McLevin Ave, Scarborough, ON M1B 5P1, Canada": {
+    "lat": 43.8102563,
+    "lon": -79.220702,
+    "resolved": "430, McLevin Avenue, Malvern East, Scarborough\u2014Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1B 0C2, Canada",
+    "source": "nominatim"
+  },
+  "9870 Markham Rd, Markham, ON L6E 2C7, Canada": {
+    "lat": 43.858512,
+    "lon": -79.2562505,
+    "resolved": "Markham Road, Markham, York Region, Golden Horseshoe, Ontario, L3S 4S0, Canada",
+    "source": "nominatim"
+  },
+  "1 Sawmill Rd, Barrie, ON, Canada": {
+    "lat": 44.3537155,
+    "lon": -79.7018744,
+    "resolved": "1, Sawmill Road, Holly, Barrie, Central Ontario, Ontario, L9J 0H5, Canada",
+    "source": "nominatim"
+  },
+  "11 Clair RD W \tGuelph\tCanada": {
+    "lat": 43.499631,
+    "lon": -80.1904302,
+    "resolved": "Starbucks, 11, Clair Road West, Guelph, Southwestern Ontario, Ontario, N1L 0A6, Canada",
+    "source": "nominatim"
+  },
+  "7955 Financial Dr, Brampton, ON L6Y 0J8, Canada": {
+    "lat": 43.6318136,
+    "lon": -79.7705134,
+    "resolved": "7955, Financial Drive, Churchville, Brampton, Peel Region, Golden Horseshoe, Ontario, L6Y 0M4, Canada",
+    "source": "nominatim"
+  },
+  "650 Kingston Rd, Ajax, ON L1V 1A6, Canada": {
+    "lat": 43.8540737,
+    "lon": -79.0579947,
+    "resolved": "650, Kingston Road West, Pickering Village, Ajax, Durham Region, Golden Horseshoe, Ontario, L1T 3A6, Canada",
+    "source": "nominatim"
+  },
+  "59 Erie Street": {
+    "lat": 43.7180109,
+    "lon": -79.4811989,
+    "resolved": "59, Erie Street, Maple Leaf, York South\u2014Weston, North York, Toronto, Golden Horseshoe, Ontario, M6L 1W9, Canada",
+    "source": "nominatim"
+  },
+  "15 Rockford Rd, North York, ON M2R 3A3, Canada": {
+    "lat": 43.784907,
+    "lon": -79.447778,
+    "resolved": "15, Rockford Road, Westminster-Branson, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M2R 3A7, Canada",
+    "source": "nominatim"
+  },
+  "280 King Street West, Hamilton, ON L9H 1W1, Canada": {
+    "lat": 43.2690747,
+    "lon": -79.9665553,
+    "resolved": "280, King Street West, Downtown Dundas, Spencer Creek, Hamilton, Golden Horseshoe, Ontario, L9H 1V4, Canada",
+    "source": "nominatim"
+  },
+  "2301 Brimley Rd, Scarborough, ON M1S 3L6, Canada": {
+    "lat": 43.797754,
+    "lon": -79.2707794,
+    "resolved": "2301, Brimley Road, Agincourt North, Scarborough North, Scarborough, Toronto, Golden Horseshoe, Ontario, M1S 5B8, Canada",
+    "source": "nominatim"
+  },
+  "54 Parkway Ave, Markham, ON L3P 2G4, Canada": {
+    "lat": 43.883744,
+    "lon": -79.2542239,
+    "resolved": "Markhaven, 54, Parkway Avenue, Markham Village, Markham, Whitchurch-Stouffville, York Region, Golden Horseshoe, Ontario, L3P 2G4, Canada",
+    "source": "nominatim"
+  },
+  "4473 Kingston Rd, Scarborough, ON M1E 2N7, Canada": {
+    "lat": 43.7698807,
+    "lon": -79.1871437,
+    "resolved": "4473, Kingston Road, West Hill, Scarborough\u2014Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1E 2N7, Canada",
+    "source": "nominatim"
+  },
+  "120 Torresdale Ave, Toronto, ON M2R 3N7, Canada": {
+    "lat": 43.7777788,
+    "lon": -79.4550325,
+    "resolved": "Wyldewood Apartments, 120, Torresdale Avenue, Westminster-Branson, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M2R 3K2, Canada",
+    "source": "nominatim"
+  },
+  "30 High Tech Road, Richmond Hill, ON, Canada": {
+    "lat": 43.8450671,
+    "lon": -79.4082713,
+    "resolved": "High Tech Road, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4B 4V9, Canada",
+    "source": "nominatim"
+  },
+  "219 Lambton Street, Kincardine, ON, Canada": {
+    "lat": 44.1787016,
+    "lon": -81.6373752,
+    "resolved": "219, Lambton Street, Kincardine, Bruce County, Ontario, N2Z 2X9, Canada",
+    "source": "nominatim"
+  },
+  "135 Industrial Parkway North, Aurora, ON, Canada": {
+    "lat": 44.0080564,
+    "lon": -79.4594168,
+    "resolved": "Aurora Family Leisure Complex, 135, Industrial Parkway North, McKenzie Marsh, Aurora, York Region, Golden Horseshoe, Ontario, L4G 4C4, Canada",
+    "source": "nominatim"
+  },
+  "5 Northtown Way, Toronto, ON M2N 7A1, Canada": {
+    "lat": 43.7749377,
+    "lon": -79.413873,
+    "resolved": "5, Northtown Way, Yonge-Doris, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, M2N 7A1, Canada",
+    "source": "nominatim"
+  },
+  "20 Bd Lorrain, Gatineau, QC J8P 2C8, Canada": {
+    "lat": 45.4895608,
+    "lon": -75.6030024,
+    "resolved": "Boulevard Lorrain, Templeton, Gatineau, Outaouais, Qu\u00e9bec, J8P 2E1, Canada",
+    "source": "nominatim"
+  },
+  "89 Queen St\tFort Erie": {
+    "lat": 42.9097734,
+    "lon": -78.9145985,
+    "resolved": "89, Queen Street, Fort Erie, Niagara Region, Golden Horseshoe, Ontario, L2A 3S7, Canada",
+    "source": "nominatim"
+  },
+  "19 Rosehill Blvd, Oshawa, ON L1J 5G5": {
+    "lat": 43.8945153,
+    "lon": -78.8799353,
+    "resolved": "19, Rosehill Boulevard, McLaughlin, Oshawa, Durham Region, Golden Horseshoe, Ontario, L1J 2K0, Canada",
+    "source": "nominatim"
+  },
+  "337 Princess Street, Shallow Lake, ON, Canada": {
+    "lat": 44.6153735,
+    "lon": -81.0874057,
+    "resolved": "337, Princess Street, Shallow Lake, Georgian Bluffs, Grey County, Ontario, N0H 2K0, Canada",
+    "source": "nominatim"
+  },
+  "5 Alma St North\tHagersville": {
+    "lat": 42.9627373,
+    "lon": -80.0497897,
+    "resolved": "5, Alma Street North, Hagersville, Haldimand County, Ontario, N0A 1H0, Canada",
+    "source": "nominatim"
+  },
+  "33 Eddystone Ave, North York, ON M3N 1H5, Canada": {
+    "lat": 43.7489205,
+    "lon": -79.5160584,
+    "resolved": "33, Eddystone Avenue, Glenfield-Jane Heights, Humber River\u2014Black Creek, North York, Toronto, Golden Horseshoe, Ontario, M3N 1K8, Canada",
+    "source": "nominatim"
+  },
+  "228 S Mill St, Ridgeway, ON L0S 1N0, Canada": {
+    "lat": 42.8807871,
+    "lon": -79.0536862,
+    "resolved": "South Mill Street, Ridgeway, Fort Erie, Niagara Region, Golden Horseshoe, Ontario, L0S 1B0, Canada",
+    "source": "nominatim"
+  },
+  "160 Vanderhoof Ave, Toronto, ON M4G 0B7, Canada": {
+    "lat": 43.7144444,
+    "lon": -79.3531137,
+    "resolved": "Scenic on Eglinton III, 160, Vanderhoof Avenue, Thorncliffe Park, Don Valley West, East York, Toronto, Golden Horseshoe, Ontario, M4G 0B7, Canada",
+    "source": "nominatim"
+  },
+  "501 Appleby Line, Burlington, ON L7L 2Y1, Canada": {
+    "lat": 43.3854486,
+    "lon": -79.7786713,
+    "resolved": "Appleby Line, Burlington, Halton Region, Golden Horseshoe, Ontario, L7L 5H9, Canada",
+    "source": "nominatim"
+  },
+  "2 Park Dr, Whitchurch-Stouffville, ON L4A 4K1, Canada": {
+    "lat": 43.9669861,
+    "lon": -79.2445741,
+    "resolved": "2, Park Drive, Whitchurch-Stouffville, York Region, Golden Horseshoe, Ontario, L4A 4K1, Canada",
+    "source": "nominatim"
+  },
+  "110 Jutland Rd, Etobicoke, ON M8Z 2G6, Canada": {
+    "lat": 43.6288495,
+    "lon": -79.5176348,
+    "resolved": "110, Jutland Road, Etobicoke City Centre, Etobicoke\u2014Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8Z 4P8, Canada",
+    "source": "nominatim"
+  },
+  "85 E Liberty St, Toronto, ON M6K 3R4, Canada": {
+    "lat": 43.6534817,
+    "lon": -79.3839347,
+    "resolved": "Toronto, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "54 Evans Avenue, Etobicoke, ON, Canada": {
+    "lat": 43.6206664,
+    "lon": -79.5028866,
+    "resolved": "54, Evans Avenue, Mimico-Queensway, Etobicoke\u2014Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8Z 0B4, Canada",
+    "source": "nominatim"
+  },
+  "177569 Grey County Road 18, Owen Sound, ON, Canada": {
+    "lat": 44.5174657,
+    "lon": -80.9812817,
+    "resolved": "Gas Barn, 177569, Grey Road 18, Owen Sound, Grey County, Ontario, N4K 5N5, Canada",
+    "source": "nominatim"
+  },
+  "2525 Prince Michael Dr, Oakville, ON L6H 0E9, Canada": {
+    "lat": 43.4985523,
+    "lon": -79.7069958,
+    "resolved": "Shoppers Drug Mart, 2525, Prince Michael Drive, Oakville, Halton Region, Golden Horseshoe, Ontario, L6H 0E9, Canada",
+    "source": "nominatim"
+  },
+  "185 Oneida Crescent, Richmond Hill, ON L4B 0B1, Canada": {
+    "lat": 43.8443985,
+    "lon": -79.4258369,
+    "resolved": "185 Oneida Crescent, 185, Oneida Crescent, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4B 4T8, Canada",
+    "source": "nominatim"
+  },
+  "20 Bruyeres Mews, Toronto, ON M5V 0G8, Canada": {
+    "lat": 43.6373271,
+    "lon": -79.4006981,
+    "resolved": "Bruyeres Mews, Fort York-Liberty Village, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5V 0G7, Canada",
+    "source": "nominatim"
+  },
+  "1140 Winston Churchill Blvd, Oakville, ON L6J 0A3, Canada": {
+    "lat": 43.4993139,
+    "lon": -79.6506328,
+    "resolved": "1140, Winston Churchill Boulevard, Oakville, Halton Region, Golden Horseshoe, Ontario, L6J 7J1, Canada",
+    "source": "nominatim"
+  },
+  "900 Mt Pleasant Rd, Toronto, ON M4P 3J9, Canada": {
+    "lat": 43.7117356,
+    "lon": -79.3919084,
+    "resolved": "900, Mount Pleasant Road, Mount Pleasant East, Don Valley West, Toronto, Golden Horseshoe, Ontario, M4P 2L7, Canada",
+    "source": "nominatim"
+  },
+  "142 John St, West Lorne, ON N0L 2P0, Canada": {
+    "lat": 42.6069914,
+    "lon": -81.6091617,
+    "resolved": "John Street, West Lorne, West Elgin, Elgin County, Southwestern Ontario, Ontario, N0L 2P0, Canada",
+    "source": "nominatim"
+  },
+  "555 Bayview Drive, Barrie, ON, Canada": {
+    "lat": 44.3374963,
+    "lon": -79.6782465,
+    "resolved": "Horsepower Sports Bar & BBQ Grill, 555, Bayview Drive, Barrie, Central Ontario, Ontario, L4N 8Y2, Canada",
+    "source": "nominatim"
+  },
+  "Town of, 21 Veterans Way, Huntsville, ON, Canada": {
+    "lat": 45.3263919,
+    "lon": -79.218434,
+    "resolved": "Huntsville, District Municipality of Muskoka, Muskoka District, Central Ontario, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "802 Clark Blvd, Brampton, ON L6T 2E8, Canada": {
+    "lat": 43.7362139,
+    "lon": -79.6852594,
+    "resolved": "Clark Boulevard, Brampton, Peel Region, Golden Horseshoe, Ontario, L6T 5P9, Canada",
+    "source": "nominatim"
+  },
+  "8201 Islington Ave, Woodbridge, ON L4L 9S6, Canada": {
+    "lat": 43.7934148,
+    "lon": -79.5837113,
+    "resolved": "8201, Islington Avenue, Woodbridge, Vaughan, York Region, Golden Horseshoe, Ontario, L4L 9S6, Canada",
+    "source": "nominatim"
+  },
+  "55 Lisgar St, Toronto, ON M6J 3X6, Canada": {
+    "lat": 43.642667,
+    "lon": -79.4232622,
+    "resolved": "55, Lisgar Street, Little Portugal, Davenport, Toronto, Golden Horseshoe, Ontario, M6J 3P4, Canada",
+    "source": "nominatim"
+  },
+  "1070 Sheppard Ave W, North York, ON M3J 0G8, Canada": {
+    "lat": 43.75061,
+    "lon": -79.4651136,
+    "resolved": "1070, Sheppard Avenue West, Downsview, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M3K 2A2, Canada",
+    "source": "nominatim"
+  },
+  "33 Maidstone Ave E, Maidstone, ON N0R 1K0, Canada": {
+    "lat": 42.2094717,
+    "lon": -82.8874849,
+    "resolved": "Maidstone, Tecumseh, Essex County, Southwestern Ontario, Ontario, N0R 1K0, Canada",
+    "source": "nominatim"
+  },
+  "38 Dan Leckie Way, Toronto, ON M5V 2V6, Canada": {
+    "lat": 43.6374517,
+    "lon": -79.398215,
+    "resolved": "Panorama, 38, Dan Leckie Way, Harbourfront-CityPlace, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5V 2V6, Canada",
+    "source": "nominatim"
+  },
+  "35 Balmuto St, Toronto, ON M4Y 0A3, Canada": {
+    "lat": 43.6694964,
+    "lon": -79.3874171,
+    "resolved": "The Uptown Residences, 35, Balmuto Street, Bay-Cloverhill, University\u2014Rosedale, Toronto, Golden Horseshoe, Ontario, M4Y 1W4, Canada",
+    "source": "nominatim"
+  },
+  "120 Perth Ave, Toronto, ON M6P 4E1, Canada": {
+    "lat": 43.6572932,
+    "lon": -79.4496931,
+    "resolved": "Perth Ave Housing Coop, 120, Perth Avenue, Junction Triangle, Davenport, Toronto, Golden Horseshoe, Ontario, M6P 3X6, Canada",
+    "source": "nominatim"
+  },
+  "1050 Markham Rd, Scarborough, ON M1H 2Y7, Canada": {
+    "lat": 43.7736179,
+    "lon": -79.2309073,
+    "resolved": "1050, Markham Road, Golfdale-Cedarbrae-Woburn, Scarborough\u2014Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1H 3B7, Canada",
+    "source": "nominatim"
+  },
+  "3225 Hwy 7, Markham, ON L3R 3P9, Canada": {
+    "lat": 43.8486554,
+    "lon": -79.3479022,
+    "resolved": "Mabu Generation, 3225, Highway 7, Buttonville, Markham, York Region, Golden Horseshoe, Ontario, L3R 3P9, Canada",
+    "source": "nominatim"
+  },
+  "2 Poyntz Street, Penetanguishene, ON, Canada": {
+    "lat": 44.7674094,
+    "lon": -79.9329056,
+    "resolved": "2, Poyntz Street, Penetanguishene, Simcoe County, Central Ontario, Ontario, L9M 1M0, Canada",
+    "source": "nominatim"
+  },
+  "1060 Sheppard Ave W, Toronto, ON M3J 0G7, Canada": {
+    "lat": 43.7505987,
+    "lon": -79.4639328,
+    "resolved": "1060, Sheppard Avenue West, York University Heights, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M3K 2A2, Canada",
+    "source": "nominatim"
+  },
+  "995 Middlefield Rd, Scarborough, ON M1V 5P6, Canada": {
+    "lat": 43.832191,
+    "lon": -79.2676318,
+    "resolved": "Middlefield Road, Milliken, Scarborough North, Scarborough, Toronto, Golden Horseshoe, Ontario, M1V 5P6, Canada",
+    "source": "nominatim"
+  },
+  "1 Antrim Crescent, Scarborough, ON M1P 4P2, Canada": {
+    "lat": 43.7706245,
+    "lon": -79.2834489,
+    "resolved": "1, Antrim Crescent, Dorset Park, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 5B7, Canada",
+    "source": "nominatim"
+  },
+  "7 John St, Elmvale, ON, Canada": {
+    "lat": 44.5814756,
+    "lon": -79.8654226,
+    "resolved": "7, John Street, Elmvale, Springwater, Simcoe County, Central Ontario, Ontario, L0L 1P0, Canada",
+    "source": "nominatim"
+  },
+  "25 The Esplanade, Toronto, ON M5E 1Z4, Canada": {
+    "lat": 43.6461096,
+    "lon": -79.3751486,
+    "resolved": "25 The Esplanade, 25, The Esplanade, St Lawrence-East Bayfront-The Islands, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5E 1A7, Canada",
+    "source": "nominatim"
+  },
+  "524 Belmont Ave W, Kitchener, ON N2M 5E3, Canada": {
+    "lat": 43.4482304,
+    "lon": -80.5142928,
+    "resolved": "524, Belmont Avenue West, Cherry Hill, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2M 5E3, Canada",
+    "source": "nominatim"
+  },
+  "25 Bay Mills Blvd, Preston, ON M1T 3P4, Canada": {
+    "lat": 43.3940076,
+    "lon": -80.3555103,
+    "resolved": "Preston, Cambridge, Region of Waterloo, Southwestern Ontario, Ontario, N3H 3P1, Canada",
+    "source": "nominatim"
+  },
+  "30 Hansen Rd N, Brampton, ON L6V 1B9, Canada": {
+    "lat": 43.6990999,
+    "lon": -79.7463764,
+    "resolved": "Hansen Road North, Brampton, Peel Region, Golden Horseshoe, Ontario, L6V 1B9, Canada",
+    "source": "nominatim"
+  },
+  "190 Bayview Drive, Barrie, ON, Canada": {
+    "lat": 44.3618844,
+    "lon": -79.6836231,
+    "resolved": "190, Bayview Drive, Barrie, Central Ontario, Ontario, L4N 4K8, Canada",
+    "source": "nominatim"
+  },
+  "18 Rockford Rd, North York, ON M2R 3V9, Canada": {
+    "lat": 43.7856215,
+    "lon": -79.4485391,
+    "resolved": "18, Rockford Road, Westminster-Branson, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M2R 3A7, Canada",
+    "source": "nominatim"
+  },
+  "6435 Erin Mills Parkway, Mississauga, ON, Canada": {
+    "lat": 43.5871579,
+    "lon": -79.7404768,
+    "resolved": "6435, Erin Mills Parkway, Meadowvale Business Park, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5N 4H4, Canada",
+    "source": "nominatim"
+  },
+  "3520 Carriage Rd, Delaware, ON N0L 1E0, Canada": {
+    "lat": 42.9081286,
+    "lon": -81.4209222,
+    "resolved": "Delaware, Middlesex Centre, Middlesex County, Ontario, N0L 1E0, Canada",
+    "source": "nominatim"
+  },
+  "1881 Steeles Ave W, North York, ON M3H 5Y4, Canada": {
+    "lat": 43.7863229,
+    "lon": -79.4691375,
+    "resolved": "Shoppers Drug Mart, 1881, Steeles Avenue West, Bathurst Manor, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M3H 5Y4, Canada",
+    "source": "nominatim"
+  },
+  "1 Steeles Ave E, Brampton, ON L6W 4J6, Canada": {
+    "lat": 43.6678758,
+    "lon": -79.730821,
+    "resolved": "1, Steeles Avenue East, Brampton, Peel Region, Golden Horseshoe, Ontario, L6W 3T7, Canada",
+    "source": "nominatim"
+  },
+  "27 Bathurst St, Toronto, ON M5V 0R1, Canada": {
+    "lat": 43.641411,
+    "lon": -79.401552,
+    "resolved": "27, Bathurst Street, Wellington Place, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5V 2P1, Canada",
+    "source": "nominatim"
+  },
+  "51 Wilson Rd, Lindsay, ON K9V 4R3, Canada": {
+    "lat": 44.3551266,
+    "lon": -78.7369939,
+    "resolved": "Lindsay, Kawartha Lakes, Central Ontario, Ontario, K9V 2Y5, Canada",
+    "source": "nominatim"
+  },
+  "72 King St N, Waterloo, ON N2J 2X1, Canada": {
+    "lat": 43.4672646,
+    "lon": -80.5228449,
+    "resolved": "King Street North, Uptown, Waterloo, Region of Waterloo, Ontario, N2J 2X0, Canada",
+    "source": "nominatim"
+  },
+  "5740 Yonge St, Toronto, ON M2M 4E7, Canada": {
+    "lat": 43.7828885,
+    "lon": -79.417392,
+    "resolved": "The Palm, 5740, Yonge Street, Newtonbrook East, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, M2M 4H9, Canada",
+    "source": "nominatim"
+  },
+  "9000 Jane St, Concord, ON L4K 0M6, Canada": {
+    "lat": 43.8258209,
+    "lon": -79.5318938,
+    "resolved": "Charisma Nails & Spa, 9000, Jane Street, Vaughan, York Region, Golden Horseshoe, Ontario, L4K 0A4, Canada",
+    "source": "nominatim"
+  },
+  "18 Graydon Hall Drive, Toronto, ON, Canada": {
+    "lat": 43.7639091,
+    "lon": -79.341989,
+    "resolved": "Graydon Hall Drive, Fenside-Parkwoods, Don Valley East, North York, Toronto, Golden Horseshoe, Ontario, M3A 3A6, Canada",
+    "source": "nominatim"
+  },
+  "56 Charles St, Newmarket, ON L3Y 1S7, Canada": {
+    "lat": 44.058109,
+    "lon": -79.4551764,
+    "resolved": "56, Charles Street, Newmarket, York Region, Golden Horseshoe, Ontario, L3Y 3L1, Canada",
+    "source": "nominatim"
+  },
+  "75 Hamilton St N, Waterdown, ON L0R 2H6, Canada": {
+    "lat": 43.3361171,
+    "lon": -79.9026491,
+    "resolved": "Hamilton Street North, Braeheid Survey, Waterdown, Hamilton, Golden Horseshoe, Ontario, L0R 2H6, Canada",
+    "source": "nominatim"
+  },
+  "184 Queen St, Woodville, ON K0M 2T0, Canada": {
+    "lat": 44.3991974,
+    "lon": -78.9880384,
+    "resolved": "Queen Street, Woodville, Kawartha Lakes, Central Ontario, Ontario, K0M 2T0, Canada",
+    "source": "nominatim"
+  },
+  "280 Boulevard Maloney E, Gatineau, QC J8P 1C6, Canada": {
+    "lat": 45.4277659,
+    "lon": -75.710976,
+    "resolved": "Gatineau, Outaouais, Qu\u00e9bec, Canada",
+    "source": "nominatim"
+  },
+  "64 Bramalea Rd, Brampton, ON L6T 2W8, Canada": {
+    "lat": 43.7072478,
+    "lon": -79.6955422,
+    "resolved": "Compass Rental Residences, 64, Bramalea Road, Brampton, Peel Region, Golden Horseshoe, Ontario, L6T 2W8, Canada",
+    "source": "nominatim"
+  },
+  "13190 Keele St, King City, ON L7B 1J2, Canada": {
+    "lat": 43.929489,
+    "lon": -79.5252267,
+    "resolved": "King City, King, York Region, Golden Horseshoe, Ontario, L7B 1A2, Canada",
+    "source": "nominatim"
+  },
+  "6750 Winston Churchill Boulevard, Mississauga, ON, Canada": {
+    "lat": 43.5827764,
+    "lon": -79.7651585,
+    "resolved": "6750, Winston Churchill Boulevard, Meadowvale, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5N 2C5, Canada",
+    "source": "nominatim"
+  },
+  "1460 Merivale Rd, Nepean, ON K2E 5P2, Canada": {
+    "lat": 45.3616393,
+    "lon": -75.7356329,
+    "resolved": "Loblaw Pharmacy, 1460, Merivale Road, Knoxdale-Merivale, Nepean, Ottawa, Eastern Ontario, Ontario, K2E 5P2, Canada",
+    "source": "nominatim"
+  },
+  "1730 Bur Oak Ave\tMarkham\tCanada": {
+    "lat": 43.9001688,
+    "lon": -79.2670885,
+    "resolved": "1730, Bur Oak Avenue, Wismer Commons, Markham, Whitchurch-Stouffville, York Region, Golden Horseshoe, Ontario, L6E 0H0, Canada",
+    "source": "nominatim"
+  },
+  "571 Bayfield Street, Barrie, ON, Canada": {
+    "lat": 44.4176769,
+    "lon": -79.7133254,
+    "resolved": "Habitat for Humanity ReStore, 571, Bayfield Street, Barrie, Simcoe County, Central Ontario, Ontario, L4M 5A0, Canada",
+    "source": "nominatim"
+  },
+  "1180 Dorval Dr, Oakville, ON L6M 3G1, Canada": {
+    "lat": 43.4493324,
+    "lon": -79.7100111,
+    "resolved": "1180, Dorval Drive, Oakville, Halton Region, Golden Horseshoe, Ontario, L6M 2S2, Canada",
+    "source": "nominatim"
+  },
+  "250 Webb Drive, Mississauga, ON, Canada": {
+    "lat": 43.587429,
+    "lon": -79.6391276,
+    "resolved": "250, Webb Drive, City Centre, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5B 1W1, Canada",
+    "source": "nominatim"
+  },
+  "2211 Sherobee Rd, Mississauga, ON L5A 2H5, Canada": {
+    "lat": 43.5734295,
+    "lon": -79.6040024,
+    "resolved": "Sherobee Towers, 2211, Sherobee Road, Cooksville, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5A 1A3, Canada",
+    "source": "nominatim"
+  },
+  "1 Esme Ln\tRidgeway": {
+    "lat": 42.8728006,
+    "lon": -79.0617039,
+    "resolved": "1, Esme Lane, Crystal Beach, Fort Erie, Niagara Region, Golden Horseshoe, Ontario, L0S 1B0, Canada",
+    "source": "nominatim"
+  },
+  "39 Kimbercroft Ct, Scarborough, ON M1S 5B5, Canada": {
+    "lat": 43.791008,
+    "lon": -79.2391863,
+    "resolved": "39, Kimbercroft Court, Agincourt South-Malvern West, Scarborough North, Scarborough, Toronto, Golden Horseshoe, Ontario, M1S 5C4, Canada",
+    "source": "nominatim"
+  },
+  "3077 Lake Shore Blvd W, Etobicoke, ON M8V 3H2": {
+    "lat": 43.5992468,
+    "lon": -79.5110859,
+    "resolved": "William Punnett Co-op, 3077, Lake Shore Boulevard West, New Toronto, Etobicoke\u2014Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8V 1K3, Canada",
+    "source": "nominatim"
+  },
+  "90 Burrows Hall Blvd, Scarborough, ON M1B 5M2, Canada": {
+    "lat": 43.792304,
+    "lon": -79.232703,
+    "resolved": "90, Burrows Hall Boulevard, Malvern East, Scarborough North, Scarborough, Toronto, Golden Horseshoe, Ontario, M1B 1M5, Canada",
+    "source": "nominatim"
+  },
+  "30 Drewry Ave, Toronto, ON M2M 1C8, Canada": {
+    "lat": 43.7867392,
+    "lon": -79.4193584,
+    "resolved": "30 Drewry Avenue, Drewry Avenue, Newtonbrook West, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, M2M 1C8, Canada",
+    "source": "nominatim"
+  },
+  "75 Havenbrook Blvd, North York, ON M2J 1A8, Canada": {
+    "lat": 43.768245,
+    "lon": -79.3480781,
+    "resolved": "75, Havenbrook Boulevard, Henry Farm, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2J 1H5, Canada",
+    "source": "nominatim"
+  },
+  "1550 Dunbar Rd, Cambridge, ON N1R 8J5, Canada": {
+    "lat": 43.3904277,
+    "lon": -80.3175141,
+    "resolved": "Islamic Centre of Cambridge, 1550, Dunbar Road, Cambridge, Region of Waterloo, Southwestern Ontario, Ontario, N1R 8J5, Canada",
+    "source": "nominatim"
+  },
+  "70 Rue Jean-Proulx, Gatineau, QC J8Z 1W1, Canada": {
+    "lat": 45.4691841,
+    "lon": -75.7433575,
+    "resolved": "Arena Jean-Paul-Sabourin, 70, Rue Jean-Proulx, Parc Industriel Richelieu, Wrightville, Hull, Gatineau, Outaouais, Qu\u00e9bec, J8Z 1W1, Canada",
+    "source": "nominatim"
+  },
+  "2650 Lawrence Ave E, Scarborough, ON M1P 2S1, Canada": {
+    "lat": 43.7519371,
+    "lon": -79.264677,
+    "resolved": "TD, 2650, Lawrence Avenue East, Bendale-Glen Andrew, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 2S1, Canada",
+    "source": "nominatim"
+  },
+  "79 Jameson Ave, Toronto, ON M6K 2W7, Canada": {
+    "lat": 43.6344046,
+    "lon": -79.434645,
+    "resolved": "79, Jameson Avenue, Parkdale, Parkdale\u2014High Park, Toronto, Golden Horseshoe, Ontario, M6K 2X5, Canada",
+    "source": "nominatim"
+  },
+  "362 The East Mall, Etobicoke, ON M9B 6C4, Canada": {
+    "lat": 43.6426389,
+    "lon": -79.5587798,
+    "resolved": "362 The East Mall Condominiums, 362, The East Mall, Islington, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9B 6L5, Canada",
+    "source": "nominatim"
+  },
+  "85 Ellesmere Rd, Scarborough, ON M1R 4B8, Canada": {
+    "lat": 43.7570385,
+    "lon": -79.3120821,
+    "resolved": "Parkway Mall, 85, Ellesmere Road, Wexford, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1R 4B9, Canada",
+    "source": "nominatim"
+  },
+  "3105 Winston Churchill Boulevard, Mississauga, ON, Canada": {
+    "lat": 43.5258309,
+    "lon": -79.6831509,
+    "resolved": "3105, Winston Churchill Boulevard, Erin Mills, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5L 2W1, Canada",
+    "source": "nominatim"
+  },
+  "375 King St W, Toronto, ON M5V 1K5, Canada": {
+    "lat": 43.8732562,
+    "lon": -79.7524069,
+    "resolved": "375, King Street West, Bolton, Caledon, Peel Region, Golden Horseshoe, Ontario, L7E 2W1, Canada",
+    "source": "nominatim"
+  },
+  "10836 Hurontario St, Brampton, ON L7A 3R9, Canada": {
+    "lat": 43.685832,
+    "lon": -79.7599366,
+    "resolved": "Brampton, Peel Region, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "44 Livingston Ave, Grimsby, ON L3M 1L1, Canada": {
+    "lat": 43.1974417,
+    "lon": -79.5683002,
+    "resolved": "Sobeys, 44, Livingston Avenue, Grimsby, Niagara Region, Golden Horseshoe, Ontario, L3M 1L1, Canada",
+    "source": "nominatim"
+  },
+  "15 South Mary Lake Road, Port Sydney, ON, Canada": {
+    "lat": 45.2209022,
+    "lon": -79.2935709,
+    "resolved": "Port Sydney, Huntsville, District Municipality of Muskoka, Muskoka District, Central Ontario, Ontario, P0B 1L0, Canada",
+    "source": "nominatim"
+  },
+  "801 Fenmar Dr, North York, ON M9L 1C8, Canada": {
+    "lat": 43.7649806,
+    "lon": -79.5626823,
+    "resolved": "801, Fenmar Drive, Humber Summit, Humber River\u2014Black Creek, North York, Toronto, Golden Horseshoe, Ontario, M9L 1C8, Canada",
+    "source": "nominatim"
+  },
+  "6525 Russell Rd, Ottawa, ON K0A 1K0, Canada": {
+    "lat": 45.3688295,
+    "lon": -75.4538867,
+    "resolved": "6525, Russell Road, Carlsbad Springs, Osgoode, Ottawa, Eastern Ontario, Ontario, K0A 1K0, Canada",
+    "source": "nominatim"
+  },
+  "7 Aldersgate Dr, Belleville, ON K8P 4G3, Canada": {
+    "lat": 44.1518808,
+    "lon": -77.4127495,
+    "resolved": "7, Aldersgate Drive, Avondale, Belleville, Central Ontario, Ontario, K8P 0H2, Canada",
+    "source": "nominatim"
+  },
+  "65 E Liberty St, Toronto, ON M6K 3R2, Canada": {
+    "lat": 43.6534817,
+    "lon": -79.3839347,
+    "resolved": "Toronto, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "225 High Tech Road, Richmond Hill, ON, Canada": {
+    "lat": 43.8419651,
+    "lon": -79.4174433,
+    "resolved": "Best Buy, 225, High Tech Road, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4B 0A6, Canada",
+    "source": "nominatim"
+  },
+  "7097 Kilbourne Road, London, ON, Canada": {
+    "lat": 42.914059,
+    "lon": -81.3125336,
+    "resolved": "Royal Canadian Legion Hall, 7097, Kilbourne Road, London, Southwestern Ontario, Ontario, N6P 1L2, Canada",
+    "source": "nominatim"
+  },
+  "3120 Rutherford Rd, Concord, ON L4K 0B1, Canada": {
+    "lat": 43.8003622,
+    "lon": -79.4993876,
+    "resolved": "Concord, Vaughan, York Region, Golden Horseshoe, Ontario, L4K 1Y7, Canada",
+    "source": "nominatim"
+  },
+  "408 Main St \tBath\tCanada": {
+    "lat": 46.5069273,
+    "lon": -67.5906715,
+    "resolved": "Main Street, Bath, Kent Parish, District of Carleton North, Carleton County, New Brunswick / Nouveau-Brunswick, E7J 1Y1, Canada",
+    "source": "nominatim"
+  },
+  "2900 Hwy 7, Vaughan, ON L4K 0G3, Canada": {
+    "lat": 43.7958204,
+    "lon": -79.5202731,
+    "resolved": "Expo 1, 2900, Highway 7, Edgeley, Vaughan, York Region, Golden Horseshoe, Ontario, L4K 3R9, Canada",
+    "source": "nominatim"
+  },
+  "26 Caithness St East\tCaledonia": {
+    "lat": 43.0737399,
+    "lon": -79.9508571,
+    "resolved": "26, Caithness Street East, Caledonia, Haldimand County, Ontario, N3W 1B6, Canada",
+    "source": "nominatim"
+  },
+  "351 Cornwall Road, Oakville, ON, Canada": {
+    "lat": 43.4577753,
+    "lon": -79.6776867,
+    "resolved": "Shoppers Drug Mart, 351, Cornwall Road, Oakville, Halton Region, Golden Horseshoe, Ontario, L6J 7Z5, Canada",
+    "source": "nominatim"
+  },
+  "655 Fairway Rd S, Kitchener, ON N2C 1X4, Canada": {
+    "lat": 43.4194528,
+    "lon": -80.4497837,
+    "resolved": "Osmow's, 655, Fairway Road South, Trillium Industrial Park, Kitchener, Region of Waterloo, Ontario, N2C 1X4, Canada",
+    "source": "nominatim"
+  },
+  "447 Davis Dr, Newmarket, ON L3Y 2P1": {
+    "lat": 44.0594952,
+    "lon": -79.4601827,
+    "resolved": "447, Davis Drive, Newmarket, York Region, Golden Horseshoe, Ontario, L3Y 3Y1, Canada",
+    "source": "nominatim"
+  },
+  "33 Harbour Square, Toronto, ON, Canada": {
+    "lat": 43.6406828,
+    "lon": -79.3769999,
+    "resolved": "33, Harbour Square, St Lawrence-East Bayfront-The Islands, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5J 2R8, Canada",
+    "source": "nominatim"
+  },
+  "1867 Windham road, 10, Waterford, ON": {
+    "lat": 42.9345071,
+    "lon": -80.290768,
+    "resolved": "Waterford, Norfolk County, Ontario, N0E 1Y0, Canada",
+    "source": "nominatim"
+  },
+  "3181 Strandherd Dr, Ottawa, ON K2J 5N1, Canada": {
+    "lat": 45.2735081,
+    "lon": -75.7206905,
+    "resolved": "GoodLife Fitness, 3181, Strandherd Drive, Barrhaven East, Nepean, Ottawa, Eastern Ontario, Ontario, K2J 5N1, Canada",
+    "source": "nominatim"
+  },
+  "45 Atherton Crescent, Georgina, ON L4P 3M6": {
+    "lat": 44.2159897,
+    "lon": -79.460635,
+    "resolved": "45, Atherton Crescent, Keswick, Georgina, York Region, Golden Horseshoe, Ontario, L4P 3J4, Canada",
+    "source": "nominatim"
+  },
+  "576 Front St W, Toronto, ON M5V 1C1, Canada": {
+    "lat": 43.6409156,
+    "lon": -79.4011096,
+    "resolved": "576, Front Street West, Harbourfront-CityPlace, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5V 3N5, Canada",
+    "source": "nominatim"
+  },
+  "3891 Bathurst St, Toronto, ON M3H 5V1, Canada": {
+    "lat": 43.7421299,
+    "lon": -79.4349799,
+    "resolved": "3891, Bathurst Street, Lansing-Westgate, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M3H 3N4, Canada",
+    "source": "nominatim"
+  },
+  "4025 Brandon Gate Dr, Mississauga, ON L4T 3Z9, Canada": {
+    "lat": 43.7328729,
+    "lon": -79.6348518,
+    "resolved": "4025, Brandon Gate Drive, Malton, Mississauga, Peel Region, Golden Horseshoe, Ontario, L4T 3Z9, Canada",
+    "source": "nominatim"
+  },
+  "5000 Hwy 7, Markham, ON L3R 4M9, Canada": {
+    "lat": 43.8698237,
+    "lon": -79.2874945,
+    "resolved": "Bell, 5000, Highway 7, Markham, York Region, Golden Horseshoe, Ontario, L3R 4M9, Canada",
+    "source": "nominatim"
+  },
+  "270 The Kingsway, Etobicoke, ON, Canada": {
+    "lat": 43.661804,
+    "lon": -79.5198447,
+    "resolved": "Humbertown Shopping Centre, 270, The Kingsway, Edenbridge-Humber Valley, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9A 3V3, Canada",
+    "source": "nominatim"
+  },
+  "3495 Lawrence Ave E, Toronto, ON M1H 1B3, Canada": {
+    "lat": 43.7572225,
+    "lon": -79.2291917,
+    "resolved": "McDonald's, 3495, Lawrence Avenue East, Golfdale-Cedarbrae-Woburn, Scarborough\u2014Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1H 1B3, Canada",
+    "source": "nominatim"
+  },
+  "9131 Keele Street, Concord, ON, Canada": {
+    "lat": 43.8117817,
+    "lon": -79.5022464,
+    "resolved": "Keele Street, Concord, Vaughan, York Region, Golden Horseshoe, Ontario, L4K 1Z1, Canada",
+    "source": "nominatim"
+  },
+  "33 Empress Ave, North York, ON M2N 6Y7, Canada": {
+    "lat": 43.7692802,
+    "lon": -79.4126333,
+    "resolved": "33, Empress Avenue, Yonge-Doris, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, M2N 6Z7, Canada",
+    "source": "nominatim"
+  },
+  "416 Rue Br\u00c3\u00a9beuf, Gatineau, QC J8P 5W3, Canada": {
+    "lat": 45.4277659,
+    "lon": -75.710976,
+    "resolved": "Gatineau, Outaouais, Qu\u00e9bec, Canada",
+    "source": "nominatim"
+  },
+  "830 Lawrence Ave W, North York, ON M6A 0B6, Canada": {
+    "lat": 43.7147231,
+    "lon": -79.4544137,
+    "resolved": "830, Lawrence Avenue West, Yorkdale-Glen Park, Eglinton\u2014Lawrence, North York, Toronto, Golden Horseshoe, Ontario, M6B 3T8, Canada",
+    "source": "nominatim"
+  },
+  "484 Bay Street, Port Perry, ON, Canada": {
+    "lat": 44.1069195,
+    "lon": -78.9562065,
+    "resolved": "484, Bay Street, Port Perry, Scugog, Durham Region, Golden Horseshoe, Ontario, L9L 1L7, Canada",
+    "source": "nominatim"
+  },
+  "3850 Lake Shore Blvd W, Etobicoke, ON M8W 1R3, Canada": {
+    "lat": 43.5909929,
+    "lon": -79.5451815,
+    "resolved": "Royal Canadian Legion, 3850, Lake Shore Boulevard West, Long Branch, Etobicoke\u2014Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8W 3P1, Canada",
+    "source": "nominatim"
+  },
+  "800 Mulock Drive, Newmarket, ON, Canada": {
+    "lat": 44.0438385,
+    "lon": -79.4389729,
+    "resolved": "Magna Centre, 800, Mulock Drive, College Manor, Newmarket, York Region, Golden Horseshoe, Ontario, L3Y 9C1, Canada",
+    "source": "nominatim"
+  },
+  "9255 Woodbine Avenue, Markham, ON, Canada": {
+    "lat": 43.8695774,
+    "lon": -79.3626063,
+    "resolved": "Sport Chek, 9255, Woodbine Avenue, Buttonville, Markham, York Region, Golden Horseshoe, Ontario, L6C 1Y9, Canada",
+    "source": "nominatim"
+  },
+  "200 Doug Duncan Drive, Newmarket, ON, Canada": {
+    "lat": 44.0529278,
+    "lon": -79.4554223,
+    "resolved": "200, Doug Duncan Drive, Newmarket, York Region, Golden Horseshoe, Ontario, L3Y 0C1, Canada",
+    "source": "nominatim"
+  },
+  "130 Garrison Rd\tFort Erie": {
+    "lat": 42.9017251,
+    "lon": -79.0937785,
+    "resolved": "Garrison Road, Fort Erie, Niagara Region, Golden Horseshoe, Ontario, L0S 1R0, Canada",
+    "source": "nominatim"
+  },
+  "2701 St Joseph Blvd, Ottawa, ON K1C 1G4, Canada": {
+    "lat": 45.4208777,
+    "lon": -75.6901106,
+    "resolved": "Ottawa, Eastern Ontario, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "1779 Jane St, North York, ON M6L 3C6, Canada": {
+    "lat": 43.706204,
+    "lon": -79.5038274,
+    "resolved": "1779, Jane Street, Rustic, York South\u2014Weston, North York, Toronto, Golden Horseshoe, Ontario, M9N 2S4, Canada",
+    "source": "nominatim"
+  },
+  "75 E Liberty St, Toronto, ON M6K 3R3, Canada": {
+    "lat": 43.6375082,
+    "lon": -79.4247174,
+    "resolved": "Liberty Street, Liberty Village, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M6K 3E3, Canada",
+    "source": "nominatim"
+  },
+  "289 Wellington St E, Aurora, ON L4G 6H6, Canada": {
+    "lat": 44.0021045,
+    "lon": -79.4524139,
+    "resolved": "Aurora Home Hardware Building Centre, 289, Wellington Street East, Aurora, York Region, Golden Horseshoe, Ontario, L4G 6H6, Canada",
+    "source": "nominatim"
+  },
+  "1375 Southdown Road, Mississauga, ON, Canada": {
+    "lat": 43.5191907,
+    "lon": -79.6390916,
+    "resolved": "1375, Southdown Road, Clarkson, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5J 2Y9, Canada",
+    "source": "nominatim"
+  },
+  "80 Thickson Rd S, Whitby, ON L1N 7T2, Canada": {
+    "lat": 43.87982,
+    "lon": -78.9421751,
+    "resolved": "Whitby, Durham Region, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "776 Davis Drive, Newmarket, ON, Canada": {
+    "lat": 44.0626714,
+    "lon": -79.4450171,
+    "resolved": "776, Davis Drive, Gorham, Newmarket, York Region, Golden Horseshoe, Ontario, L3Y 3J2, Canada",
+    "source": "nominatim"
+  },
+  "1 Bartley Bull Pkwy, Brampton, ON L6W 3T7, Canada": {
+    "lat": 43.6674582,
+    "lon": -79.7327914,
+    "resolved": "Bartley's Square Mall, 1, Bartley Bull Parkway, Brampton, Peel Region, Golden Horseshoe, Ontario, L6W 3T7, Canada",
+    "source": "nominatim"
+  },
+  "148 Markham Rd, Scarborough, ON M1M 2Z8, Canada": {
+    "lat": 43.740884,
+    "lon": -79.2187095,
+    "resolved": "Scarborough Retirement Residence, 148, Markham Road, Scarborough Village, Scarborough\u2014Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1M 2Z8, Canada",
+    "source": "nominatim"
+  },
+  "110 Charles Street East, Arthur, ON, Canada": {
+    "lat": 43.8309446,
+    "lon": -80.5355526,
+    "resolved": "Arthur, Wellington North, Wellington County, Ontario, N0G 1A0, Canada",
+    "source": "nominatim"
+  },
+  "19 Grand Trunk Crescent, Toronto, ON M5J 3A3, Canada": {
+    "lat": 43.6417678,
+    "lon": -79.3826433,
+    "resolved": "Grand Trunk Crescent, Harbourfront-CityPlace, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5J 3A6, Canada",
+    "source": "nominatim"
+  },
+  "150 Bunting Rd\tSt. Catharines": {
+    "lat": 43.1656041,
+    "lon": -79.2095997,
+    "resolved": "150, Bunting Road, St. Catharines, Niagara Region, Golden Horseshoe, Ontario, L2M 3Y1, Canada",
+    "source": "nominatim"
+  },
+  "3860 Legion St \tNiagara Falls\tCanada": {
+    "lat": 43.0607183,
+    "lon": -79.0558361,
+    "resolved": "3860, Legion Street, Chippawa, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 5Y7, Canada",
+    "source": "nominatim"
+  },
+  "82 Jensen Rd, London, ON N5V 4R8, Canada": {
+    "lat": 43.025375,
+    "lon": -81.218021,
+    "resolved": "82, Jensen Road, London, Southwestern Ontario, Ontario, N5Y 1B5, Canada",
+    "source": "nominatim"
+  },
+  "352 Front St W, Toronto, ON M5V 0K3, Canada": {
+    "lat": 43.6435692,
+    "lon": -79.3921855,
+    "resolved": "352, Front Street West, Wellington Place, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5V 0K3, Canada",
+    "source": "nominatim"
+  },
+  "50 Elizabeth Grove, King City, ON L7B 1H7, Canada": {
+    "lat": 43.9243778,
+    "lon": -79.5254726,
+    "resolved": "King City United Church, 50, Elizabeth Grove, Clearview Heights, King City, King, York Region, Golden Horseshoe, Ontario, L7B 1H7, Canada",
+    "source": "nominatim"
+  },
+  "8 Mondeo Drive, Scarborough, ON, Canada": {
+    "lat": 43.7644205,
+    "lon": -79.2886157,
+    "resolved": "8, Mondeo Drive, Dorset Park, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 2W1, Canada",
+    "source": "nominatim"
+  },
+  "2000 Montr\u00c3\u00a9al Rd, Gloucester, ON K1J 6N2, Canada": {
+    "lat": 45.4350565,
+    "lon": -75.6089267,
+    "resolved": "Gloucester, Beacon Hill-Cyrville, Ottawa, Eastern Ontario, Ontario, K1J 9L3, Canada",
+    "source": "nominatim"
+  },
+  "21 Knightsbridge Rd, Brampton, ON L6T 3Y1": {
+    "lat": 43.7204828,
+    "lon": -79.7132111,
+    "resolved": "21, Knightsbridge Road, Bramalea, Brampton, Peel Region, Golden Horseshoe, Ontario, L6T 5L6, Canada",
+    "source": "nominatim"
+  },
+  "32 Lundy's Ln\tKingston\tCanada": {
+    "lat": 44.2373598,
+    "lon": -76.4478533,
+    "resolved": "KMFRC, 32, Lundy's Lane, Fort Henry Heights, Kingston, Eastern Ontario, Ontario, K7K 5G3, Canada",
+    "source": "nominatim"
+  },
+  "777 Guelph Line, Burlington, ON L7R 3N2, Canada": {
+    "lat": 43.3483221,
+    "lon": -79.7941126,
+    "resolved": "Burlington Centre, 777, Guelph Line, Burlington, Halton Region, Golden Horseshoe, Ontario, L7R 3N5, Canada",
+    "source": "nominatim"
+  },
+  "550 Birchmount Rd, Scarborough, ON M1K 1P2, Canada": {
+    "lat": 43.711387,
+    "lon": -79.2706305,
+    "resolved": "550, Birchmount Road, Clairlea-Birchmount, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1K 0A4, Canada",
+    "source": "nominatim"
+  },
+  "204 Main St, Toronto, ON M4E 3V4": {
+    "lat": 43.6534817,
+    "lon": -79.3839347,
+    "resolved": "Toronto, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "211 Marycroft Avenue, Woodbridge, ON, Canada": {
+    "lat": 43.7848982,
+    "lon": -79.5923855,
+    "resolved": "Woodbridge, Vaughan, York Region, Golden Horseshoe, Ontario, L4L 9L9, Canada",
+    "source": "nominatim"
+  },
+  "515 Maple Grove Dr, Oakville, ON L6J 4W3, Canada": {
+    "lat": 43.4792019,
+    "lon": -79.6575491,
+    "resolved": "515, Maple Grove Drive, Oakville, Halton Region, Golden Horseshoe, Ontario, L6J 6X8, Canada",
+    "source": "nominatim"
+  },
+  "20 Antrim Crescent, Scarborough, ON M1P 4N3, Canada": {
+    "lat": 43.772096,
+    "lon": -79.2852615,
+    "resolved": "20, Antrim Crescent, Dorset Park, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 5B7, Canada",
+    "source": "nominatim"
+  },
+  "2 Vena Wy, Toronto, ON M9M 0G2, Canada": {
+    "lat": 43.7503485,
+    "lon": -79.5409535,
+    "resolved": "Vena Way, Humbermede, Humber River\u2014Black Creek, North York, Toronto, Golden Horseshoe, Ontario, M9M 2V9, Canada",
+    "source": "nominatim"
+  },
+  "1102 Ossington Ave, Toronto, ON M6G 3W1, Canada": {
+    "lat": 43.6714943,
+    "lon": -79.4298044,
+    "resolved": "1102, Ossington Avenue, Wychwood, Toronto\u2014St. Paul's, Toronto, Golden Horseshoe, Ontario, M6G 4B4, Canada",
+    "source": "nominatim"
+  },
+  "1a Ramsden Rd, York, ON M6E 3S6, Canada": {
+    "lat": 43.6965001,
+    "lon": -79.4520641,
+    "resolved": "Ramsden Road, Briar Hill-Belgravia, Eglinton\u2014Lawrence, York, Toronto, Golden Horseshoe, Ontario, M6E 2H8, Canada",
+    "source": "nominatim"
+  },
+  "59 Rue Mareng\u00c3\u00a8re, Gatineau, QC J8T 3T7, Canada": {
+    "lat": 45.4277659,
+    "lon": -75.710976,
+    "resolved": "Gatineau, Outaouais, Qu\u00e9bec, Canada",
+    "source": "nominatim"
+  },
+  "801 York Mills Rd, Toronto, ON M3B 1X7": {
+    "lat": 43.7528634,
+    "lon": -79.358355,
+    "resolved": "AspenClean, 801, York Mills Road, Banbury-Don Mills, Don Valley East, North York, Toronto, Golden Horseshoe, Ontario, M3B 1X7, Canada",
+    "source": "nominatim"
+  },
+  "120 Shelborne Ave, North York, ON M6B 2M7, Canada": {
+    "lat": 43.716197,
+    "lon": -79.429937,
+    "resolved": "120, Shelborne Avenue, Englemount-Lawrence, Eglinton\u2014Lawrence, North York, Toronto, Golden Horseshoe, Ontario, M6B 3C2, Canada",
+    "source": "nominatim"
+  },
+  "744 Browns Line, Etobicoke, ON M8W 3W1, Canada": {
+    "lat": 43.6079122,
+    "lon": -79.5483663,
+    "resolved": "744, Brown's Line, Alderwood, Etobicoke\u2014Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8W 3V7, Canada",
+    "source": "nominatim"
+  },
+  "10651 Chinguacousy Rd, Brampton, ON L7A 0N5, Canada": {
+    "lat": 43.7061668,
+    "lon": -79.8352733,
+    "resolved": "Chinguacousy Road, Brampton, Peel Region, Golden Horseshoe, Ontario, L7A 3K7, Canada",
+    "source": "nominatim"
+  },
+  "1759 Victoria Park Ave, Scarborough, ON M1R 1S4, Canada": {
+    "lat": 43.73996,
+    "lon": -79.3082639,
+    "resolved": "1759, Victoria Park Avenue, Wexford, Scarborough Centre, Scarborough, North York, Toronto, Golden Horseshoe, Ontario, M1R 1T1, Canada",
+    "source": "nominatim"
+  },
+  "15 Northtown Way, North York, ON M2N 7A2, Canada": {
+    "lat": 43.7750368,
+    "lon": -79.4130679,
+    "resolved": "15, Northtown Way, Yonge-Doris, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, M2N 7A2, Canada",
+    "source": "nominatim"
+  },
+  "1400 Wellington St E, Aurora, ON L4G 7B7, Canada": {
+    "lat": 44.0098616,
+    "lon": -79.4234044,
+    "resolved": "1400, Wellington Street East, Adena Meadows, Aurora, York Region, Golden Horseshoe, Ontario, L4G 7B7, Canada",
+    "source": "nominatim"
+  },
+  "130 Father Tobin Rd, Brampton, ON L6R 0E3, Canada": {
+    "lat": 43.7720465,
+    "lon": -79.7560238,
+    "resolved": "130, Father Tobin Road, Brampton, Peel Region, Golden Horseshoe, Ontario, L6R 0W9, Canada",
+    "source": "nominatim"
+  },
+  "255 High Tech Road, Richmond Hill, ON, Canada": {
+    "lat": 43.8449211,
+    "lon": -79.4089192,
+    "resolved": "High Tech Road, Richmond Hill, York Region, Golden Horseshoe, Ontario, L4B 4V9, Canada",
+    "source": "nominatim"
+  },
+  "140 Brooke St, Vaughan, ON L4J 1Y9, Canada": {
+    "lat": 43.8141645,
+    "lon": -79.4275857,
+    "resolved": "Holy Trinity Church, 140, Brooke Street, Thornhill, Vaughan, York Region, Golden Horseshoe, Ontario, L4J 7K3, Canada",
+    "source": "nominatim"
+  },
+  "49 Matheson Blvd E, Mississauga, ON L4Z 2Y5, Canada": {
+    "lat": 43.6199111,
+    "lon": -79.6685458,
+    "resolved": "49, Matheson Boulevard East, Britannia, Mississauga, Peel Region, Golden Horseshoe, Ontario, L4Z 2E2, Canada",
+    "source": "nominatim"
+  },
+  "9 Roanoke Rd, North York, ON M3A 1E4, Canada": {
+    "lat": 43.7409835,
+    "lon": -79.3273976,
+    "resolved": "9, Roanoke Road, Parkwoods-O'Connor Hills, Don Valley East, North York, Toronto, Golden Horseshoe, Ontario, M3A 1H5, Canada",
+    "source": "nominatim"
+  },
+  "38 Joe Shuster Way, Toronto, ON M6K 0A5, Canada": {
+    "lat": 43.6404401,
+    "lon": -79.4245716,
+    "resolved": "Bridge Condominium, 38, Joe Shuster Way, Liberty Village, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M6K 0A5, Canada",
+    "source": "nominatim"
+  },
+  "42 Nelson St, Thedford, ON, Canada": {
+    "lat": 43.166489,
+    "lon": -81.8581781,
+    "resolved": "42, Nelson Street, Thedford, Lambton Shores, Lambton County, Southwestern Ontario, Ontario, N0M 2N0, Canada",
+    "source": "nominatim"
+  },
+  "291 Great lakes Dr\tBrampton": {
+    "lat": 43.7374789,
+    "lon": -79.7695222,
+    "resolved": "Jamiat-Ul-Ansar of Brampton, 291, Great Lakes Drive, Brampton, Peel Region, Golden Horseshoe, Ontario, L6R 2Z4, Canada",
+    "source": "nominatim"
+  },
+  "9320 Bathurst St, Vaughan, ON L4J 8W1, Canada": {
+    "lat": 43.8458975,
+    "lon": -79.4582802,
+    "resolved": "Bathurst Street, Carrville, Vaughan, York Region, Golden Horseshoe, Ontario, L4J 8W1, Canada",
+    "source": "nominatim"
+  },
+  "8405 Financial Dr, Brampton, ON L6Y 0E3, Canada": {
+    "lat": 43.6210439,
+    "lon": -79.7557874,
+    "resolved": "Financial Drive, Churchville, Brampton, Peel Region, Golden Horseshoe, Ontario, L6Y 5P4, Canada",
+    "source": "nominatim"
+  },
+  "Town of, 93 West Road, Huntsville, ON, Canada": {
+    "lat": 45.3263919,
+    "lon": -79.218434,
+    "resolved": "Huntsville, District Municipality of Muskoka, Muskoka District, Central Ontario, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "320 Bayfield Street, Barrie, ON, Canada": {
+    "lat": 44.4018418,
+    "lon": -79.7040664,
+    "resolved": "Centra Food Market, 320, Bayfield Street, Tall Trees, Barrie, Central Ontario, Ontario, L4N 6P9, Canada",
+    "source": "nominatim"
+  },
+  "155 Sandford Fleming Dr, Collingwood, ON L9Y 5A6, Canada": {
+    "lat": 44.4935731,
+    "lon": -80.1899542,
+    "resolved": "155, Sandford Fleming Drive, Collingwood, Simcoe County, Central Ontario, Ontario, L9Y 5A6, Canada",
+    "source": "nominatim"
+  },
+  "2015 Sheppard Ave E, North York, ON M2J 0B3, Canada": {
+    "lat": 43.7543217,
+    "lon": -79.4491057,
+    "resolved": "North York, Toronto, Golden Horseshoe, Ontario, Canada",
+    "source": "nominatim"
+  },
+  "52 Rue Saint-Rosaire, Gatineau, QC J8T 3B3, Canada": {
+    "lat": 45.4706466,
+    "lon": -75.6887042,
+    "resolved": "Chalet Saint-Rosaire, 52, Rue Saint-Rosaire, Gatineau, Outaouais, Qu\u00e9bec, J8T 3B2, Canada",
+    "source": "nominatim"
+  },
+  "56 Baldwin St, Whitby, ON L1M 1A3, Canada": {
+    "lat": 43.9577039,
+    "lon": -78.9607127,
+    "resolved": "56, Baldwin Street North, Downtown Brooklin, Brooklin, Whitby, Durham Region, Golden Horseshoe, Ontario, L1M 1A2, Canada",
+    "source": "nominatim"
+  },
+  "1190 Dundas St E, Toronto, ON M4M 0C5, Canada": {
+    "lat": 43.6597899,
+    "lon": -79.3643918,
+    "resolved": "Dundas Street East, Regent Park, Toronto Centre, Toronto, Golden Horseshoe, Ontario, M5A 1Y1, Canada",
+    "source": "nominatim"
+  },
+  "7165 Yonge St, Vaughan, ON L3T 0C9, Canada": {
+    "lat": 43.8029648,
+    "lon": -79.4213684,
+    "resolved": "Yonge Street, Steeles Corners, Vaughan, York Region, Golden Horseshoe, Ontario, L3T 0C6, Canada",
+    "source": "nominatim"
+  },
+  "21 Charles Street, Milton, ON, Canada": {
+    "lat": 43.5134916,
+    "lon": -79.8814706,
+    "resolved": "Royal Canadian Legion Private Joe Waters Branch No. 136, 21, Charles Street, Downtown Milton, Milton, Halton Region, Golden Horseshoe, Ontario, L9T 2G5, Canada",
+    "source": "nominatim"
+  },
+  "6901 Derry Road, Milton, ON, Canada": {
+    "lat": 43.4961023,
+    "lon": -79.8729052,
+    "resolved": "6901, Derry Road, Milton, Halton Region, Golden Horseshoe, Ontario, L9T 7H5, Canada",
+    "source": "nominatim"
+  },
+  "545 Steeles Ave W, Brampton, ON L6Y 4E7, Canada": {
+    "lat": 43.656192,
+    "lon": -79.7437548,
+    "resolved": "545, Steeles Avenue West, Brampton, Peel Region, Golden Horseshoe, Ontario, L6Y 4C0, Canada",
+    "source": "nominatim"
+  },
+  "10 Navy Wharf Ct, Toronto, ON M5V 3V2, Canada": {
+    "lat": 43.6404391,
+    "lon": -79.3919401,
+    "resolved": "Harbour View Estates 1, 10, Navy Wharf Court, Harbourfront-CityPlace, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M5V 3V9, Canada",
+    "source": "nominatim"
+  },
+  "185 S Service Rd, Grimsby, ON L3M 4H6, Canada": {
+    "lat": 43.2006388,
+    "lon": -79.572401,
+    "resolved": "Habitat for Humanity ReStore, 185, South Service Road, Grimsby-on-the-Lake, Grimsby, Niagara Region, Golden Horseshoe, Ontario, L3M 4H6, Canada",
+    "source": "nominatim"
+  },
+  "2400 City Park Dr, Ottawa, ON K1J 1H6, Canada": {
+    "lat": 45.432787,
+    "lon": -75.6121295,
+    "resolved": "Scotiabank, 2400, City Park Drive, Gloucester Centre, Gloucester, Beacon Hill-Cyrville, Ottawa, Eastern Ontario, Ontario, K1J 1G1, Canada",
+    "source": "nominatim"
+  },
+  "1345 Huron St #1a, London, ON N5V 2E3, Canada": {
+    "lat": 43.0196314,
+    "lon": -81.2132807,
+    "resolved": "1345 Huron St #1a, London, ON N5Y 6M7, Canada",
+    "source": "google"
+  },
+  "1144 Courtland Ave E, Kitchener, ON N2C 1N2, Canada": {
+    "lat": 43.4218499,
+    "lon": -80.45960029999999,
+    "resolved": "1144 Courtland Ave E, Kitchener, ON N2C 1N2, Canada",
+    "source": "google"
+  },
+  "75,85,95 North Park Road( Condo)": {
+    "lat": 43.8121533,
+    "lon": -79.456895,
+    "resolved": "95 N Park Rd 75 85, Vaughan, ON L4J 0J1, Canada",
+    "source": "google"
+  },
+  "8439 Main Lisle St\tLisle": {
+    "lat": 44.2668963,
+    "lon": -79.9798132,
+    "resolved": "8439 Main Street Lisle, Lisle, ON L0M 1M0, Canada",
+    "source": "google"
+  },
+  "2 Chestnut St East\tSt. Catharines": {
+    "lat": 43.1392777,
+    "lon": -79.2154783,
+    "resolved": "2 Chestnut St, St. Catharines, ON L2T 1G5, Canada",
+    "source": "google"
+  },
+  "126 Bellemy Rd\tScarborough": {
+    "lat": 43.7423817,
+    "lon": -79.2318485,
+    "resolved": "126 Bellamy Rd N, Scarborough, ON M1J 2L1, Canada",
+    "source": "google"
+  },
+  "100 John West Way, Aurora, ON L4G, Canada": {
+    "lat": 44.0065168,
+    "lon": -79.45042169999999,
+    "resolved": "100 John West Way, Aurora, ON L4G 0R3, Canada",
+    "source": "google"
+  },
+  "1555 King Rd, King City, ON L7B 1L4, Canada": {
+    "lat": 43.9327155,
+    "lon": -79.5072098,
+    "resolved": "1555 King Rd, King City, ON L7B 1L4, Canada",
+    "source": "google"
+  },
+  "222 Industrial Park Rd, Dysart and Others, ON K0M 1S0, Canada": {
+    "lat": 45.0536296,
+    "lon": -78.54103649999999,
+    "resolved": "222 Industrial Park Rd, Dysart and Others, ON K0M 1S0, Canada",
+    "source": "google"
+  },
+  "58 Prince Edward St, Brighton, ON K0K, Canada": {
+    "lat": 44.03979409999999,
+    "lon": -77.7363336,
+    "resolved": "58 Prince Edward St, Brighton, ON K0K 1H0, Canada",
+    "source": "google"
+  },
+  "4377 Fourth Ave\tNiagara Falls\tCanada": {
+    "lat": 43.1103486,
+    "lon": -79.079033,
+    "resolved": "4377 Fourth Ave, Niagara Falls, ON L2E 4N1, Canada",
+    "source": "google"
+  },
+  "330 Burnhamthorpe Rd W (outside)\tMississauga\tCanada": {
+    "lat": 43.5862105,
+    "lon": -79.6429297,
+    "resolved": "330 Burnhamthorpe Rd W, Mississauga, ON L5B 0E1, Canada",
+    "source": "google"
+  },
+  "11860 Yonge St              \tR-Hill\tCanada": {
+    "lat": 43.9156621,
+    "lon": -79.4477318,
+    "resolved": "11860 Yonge St, Richmond Hill, ON L4E 0W6, Canada",
+    "source": "google"
+  },
+  "210 & 220 Steeles Ave W, Brampton, ON L6W, Canada": {
+    "lat": 43.6367708,
+    "lon": -79.7654307,
+    "resolved": "Steeles Ave W, Brampton, ON L6Y, Canada",
+    "source": "google"
+  },
+  "20 Minowan Miikan Ln, Toronto, ON M6J, Canada": {
+    "lat": 43.6435079,
+    "lon": -79.4284198,
+    "resolved": "20 Minowan Miikan Ln, Toronto, ON M6J 0E5, Canada",
+    "source": "google"
+  },
+  "45-65 south port\tEtobicke\tCanada": {
+    "lat": 43.6204946,
+    "lon": -79.5131983,
+    "resolved": "Etobicoke, ON, Canada",
+    "source": "google"
+  },
+  "6190 Country Rd 13 Everett Canada": {
+    "lat": 44.1935152,
+    "lon": -79.94168870000001,
+    "resolved": "6190 County Rd 13, Everett, ON L0M 1J0, Canada",
+    "source": "google"
+  },
+  "310 Burnhamthorpe Rd W (inside)\tMississauga\tCanada": {
+    "lat": 43.5867521,
+    "lon": -79.6429308,
+    "resolved": "310 Burnhamthorpe Rd W, Mississauga, ON L5B 4P9, Canada",
+    "source": "google"
+  }
+}
